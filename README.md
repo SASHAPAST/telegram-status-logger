@@ -44,9 +44,10 @@
 `online-status-logger.py`
 
 ## 2. Replace the placeholders:
-```api_id = ""
-api_hash = ""
-phone_number = ""
+```
+api_id = "here"
+api_hash = "here"
+phone_number = "+1"
 target_usernames = ["@username1", "@username2"]
 ```
 > **api_id and api_hash:** The API ID and Hash of your Telegram Account.
