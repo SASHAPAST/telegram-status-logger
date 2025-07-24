@@ -12,7 +12,7 @@
 ##### ✅ Saves detailed logs with timestamps to log.txt for personal reference or experiments.
 
 ## ⚙️ Requirements
-##### ✅ Python (3.40 or higher recommended (better the newest one))
+##### ✅ Python (3.10 or higher recommended (better the newest one))
 ##### ✅ Pip (usually comes with Python)
 
 ---
