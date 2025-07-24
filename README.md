@@ -1,8 +1,8 @@
 # ***⚠️ Disclaimer:***
-#### > This script was created for experimental and educational purposes only.
-#### > It is shared so others can use it for personal use on their own Telegram account or to learn about Telethon and Telegram API behavior.
-#### > The author does not take responsibility for any misuse of this code.
-#### > Use responsibly and comply with your local laws.
+#### - This script was created for experimental and educational purposes only.
+#### - It is shared so others can use it for personal use on their own Telegram account or to learn about Telethon and Telegram API behavior.
+#### - The author does not take responsibility for any misuse of this code.
+#### - Use responsibly and comply with your local laws.
 
 ---
 
