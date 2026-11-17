@@ -41,7 +41,7 @@
 # **⚙️ Configuration**
 
 ## 1. Open this python code in any text editor (even usual Notepad).
-`online-status-logger.py`
+`status-logger.py`
 
 ## 2. Replace the placeholders:
 ```python
@@ -87,7 +87,7 @@ reconnect_delay = 30
 
 ## **Standard Method**
 ##### It's better to run it in cmd, just:
-##### - Right click `online-status-logger.py`
+##### - Right click `status-logger.py`
 ##### - Open with > Python
 
 ##### *✅ On first launch, it will request a verification code sent to your Telegram, and (if enabled) your 2FA password.*
@@ -115,11 +115,11 @@ SESSION_NAME = '+1XXXXXXXXXX'  # Replace with your phone number or desired sessi
 
 ### **3. Connect the created `.session` file to the main script:**
 ##### - After successful login, a new file named `<SESSION_NAME>.session` (for example, `+1XXXXXXXXXX.session`) will appear in the **same folder**.
-##### - Open `online-status-logger.py` and set `session_path` to that exact `.session` file name (or its full path), e.g.:
+##### - Open `status-logger.py` and set `session_path` to that exact `.session` file name (or its full path), e.g.:
 ```python
 session_path = "+1XXXXXXXXXX.session"
 ```
-##### - Now you can run `online-status-logger.py` — it will log in automatically without asking for a code.
+##### - Now you can run `status-logger.py` — it will log in automatically without asking for a code.
 
 ---
 
